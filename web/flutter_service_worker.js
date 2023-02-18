@@ -6,7 +6,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {"canvaskit/canvaskit.js": "1338eccfe817956d34753284f2b1cdf6",
 "canvaskit/canvaskit.wasm": "31815187c4e7d2bc4041121267373fc6",
 "flutter.js": "2910b04607a7dd7ab1aa3d916ef5cfff",
-"main.dart.js": "875a33703c6612091cc8d457e18b281f",
+"main.dart.js": "198be5a63bbbcda15a46549b620bd701",
 "version.json": "c1d675ddbb5b05501fc718f99dc87bf5",
 "assets/assets/sumpu_castle.png": "0e2d411925f4c8f5e6ec6808d7d19eb4",
 "assets/assets/castle.png": "284f7b9590b0dc490b8a703ab57816a0",
@@ -27,8 +27,8 @@ const RESOURCES = {"canvaskit/canvaskit.js": "1338eccfe817956d34753284f2b1cdf6",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "0e3ab445cbf305f922ad4ebc0edf3318",
-"/": "0e3ab445cbf305f922ad4ebc0edf3318",
+"index.html": "d0a2d03693e8c708406f8f7dd396a4b0",
+"/": "d0a2d03693e8c708406f8f7dd396a4b0",
 "manifest.json": "36126d935cf6f3c0d4d9a510921a703d"};
 // The application shell files that are downloaded before a service worker can
 // start.
